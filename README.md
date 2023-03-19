@@ -6,7 +6,7 @@
 
 
 ### badges
-![React.js](https://img.shields.io/badge/handlebars.js-License-yellowgreen)
+![React.js](https://img.shields.io/badge/React.js-License-yellowgreen)
 ![Node.js](https://img.shields.io/badge/Nodejs-License-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-License-yellowgreen)
 ![MONGODB](https://img.shields.io/badge/mySQL-License-lightgrey)
